@@ -2,9 +2,3 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Willcley+Melo;I'm+20+years+old;I+from+Brazil,+RJ;Be+wellcome!+=])](https://git.io/typing-svg)
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Willcley&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Willcley Melo github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willcley&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-![Snake animation](https://github.com/Willcley/Willcley/blob/output/github-contribution-grid-snake.svg)
